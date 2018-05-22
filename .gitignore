@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*_ui_test_report.html
 # C extensions
 *.so
 .idea
