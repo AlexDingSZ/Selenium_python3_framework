@@ -111,7 +111,7 @@ class BasePage(object):
             element = self.driver.find_element_by_css_selector(selector_value)
         else:
             raise NameError("Please enter a valid type of targeting elements.")
-        self.driver.page
+
         return element
 
         # 输入
